@@ -9,7 +9,9 @@ Talent String:
 \
 \
 BoQAAAAAAAAAAAAAAAAAAAAAAggkEJSg0SLCSLJJkSAAAAAQLSSSIBSIRyBi0SicACAAAAAAA
-
+![alt text](Eranog.PNG)
+\
+\
 Playstyle notes:
 test
 
